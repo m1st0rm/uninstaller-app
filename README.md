@@ -13,6 +13,9 @@ This repo contains a desktop application for Windows developed in C++ using WinA
  **OS:** Windows (10 or newer)
 
  ## Screenshots
+   
  ![screenshot1](https://i.imgur.com/9hmcjl5.png)  
+   
  ![screenshot2](https://i.imgur.com/5W3xExv.png)  
+   
  ![screenshot3](https://i.imgur.com/4ZnyXvR.png)
